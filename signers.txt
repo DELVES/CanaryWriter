@@ -1,0 +1,2 @@
+Add your signers here (signers.txt).
+* Your Name: ABCD EFGH IJKL MNOP QRST UVWX YZ12 3456 7891 0111
