@@ -67,7 +67,7 @@ We have to admit, creating canary statements can be **long** (especially if you 
 <!-- PREREQUISITES -->
 ## Prerequisites
 
-To use CanaryWriter, you'll need to install a few packages. We reccomend using [Homebrew] to do this.
+To use CanaryWriter, you'll need to install a few packages. We recommend using [Homebrew] to do this.
 * [rsstail]
   ```sh
   brew install rsstail
