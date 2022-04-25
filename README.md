@@ -19,14 +19,14 @@
   <h3 align="center">CanaryWriter</h3>
 
   <p align="center">
-    A CLI tool for creating signed canary statements.
+    A CLI tool for creating signed warrant canaries.
     <br />
     <br />
     <a href="https://delvesmediagroup.com/">Visit Our Site</a>
     ·
-    <a href="https://github.com/delvesmedia/CanaryWriter/issues">Report Bug</a>
+    <a href="https://github.com/DELVES/CanaryWriter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/delvesmedia/CanaryWriter/issues">Request Feature</a>
+    <a href="https://github.com/DELVES/CanaryWriter/issues">Request Feature</a>
   </p>
 </div>
 
@@ -49,10 +49,10 @@
 <!-- ABOUT CANARYWRITER -->
 ## About CanaryWriter
 
-We have to admit, creating canary statements can be **long** (especially if you have to do it often). We created CanaryWriter to help people create signed canary statements easily. We use CanaryWriter in-house to create our own canary statements. You can check them out [here](https://delvesmediagroup.com/canaries)!
+We have to admit, creating warrant canaries can be **long** (especially if you have to do it often). We created CanaryWriter to help people create signed warrant canaries easily. We use CanaryWriter in-house to create our own warrant canaries. You can check them out [here](https://delvesmediagroup.com/canaries)!
 
 
-### What are canary statements (a.k.a warrant canaries)?
+### What are warrant canaries?
 
 > A warrant canary is a colloquial term for a regularly published statement that a service provider has not received legal process that it would be prohibited from saying it had received. Once a service provider does receive legal process, the speech prohibition goes into place, and the canary statement is removed.
 >
@@ -77,7 +77,7 @@ To use CanaryWriter, you'll need to install a few packages. We recommend using [
   ```sh
   brew install gnupg
   ```
-  You'll also need to create or import a PGP key to sign your canary statements. Information on how to do this can be found [here](https://help.ubuntu.com/community/GnuPrivacyGuardHowto#Generating_an_OpenPGP_Key).
+  You'll also need to create or import a PGP key to sign your warrant canaries. Information on how to do this can be found [here](https://help.ubuntu.com/community/GnuPrivacyGuardHowto#Generating_an_OpenPGP_Key).
   
 <p align="right">(<a href="#top">back to top</a>)</p>
   
@@ -88,7 +88,7 @@ To use CanaryWriter, you'll need to install a few packages. We recommend using [
 
 * Download the contents of this repository (preferably using `git`).
   ```sh
-  git clone https://github.com/delvesmedia/CanaryWriter.git
+  git clone https://github.com/DELVES/CanaryWriter.git
   ```
   
 * Change directory to the location where you downloaded CanaryWriter.
@@ -138,16 +138,16 @@ Distributed under The GNU General Public License v3.0. See `LICENSE.txt` for mor
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/delvesmedia/CanaryWriter.svg?style=for-the-badge
-[contributors-url]: https://github.com/delvesmedia/CanaryWriter/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/delvesmedia/CanaryWriter.svg?style=for-the-badge
-[forks-url]: https://github.com/delvesmedia/CanaryWriter/network/members
-[stars-shield]: https://img.shields.io/github/stars/delvesmedia/CanaryWriter.svg?style=for-the-badge
-[stars-url]: https://github.com/delvesmedia/CanaryWriter/stargazers
-[issues-shield]: https://img.shields.io/github/issues/delvesmedia/CanaryWriter.svg?style=for-the-badge
-[issues-url]: https://github.com/delvesmedia/CanaryWriter/issues
-[license-shield]: https://img.shields.io/github/license/delvesmedia/CanaryWriter.svg?style=for-the-badge
-[license-url]: https://github.com/delvesmedia/CanaryWriter/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/DELVES/CanaryWriter.svg?style=for-the-badge
+[contributors-url]: https://github.com/DELVES/CanaryWriter/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DELVES/CanaryWriter.svg?style=for-the-badge
+[forks-url]: https://github.com/DELVES/CanaryWriter/network/members
+[stars-shield]: https://img.shields.io/github/stars/DELVES/CanaryWriter.svg?style=for-the-badge
+[stars-url]: https://github.com/DELVES/CanaryWriter/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DELVES/CanaryWriter.svg?style=for-the-badge
+[issues-url]: https://github.com/DELVES/CanaryWriter/issues
+[license-shield]: https://img.shields.io/github/license/DELVES/CanaryWriter.svg?style=for-the-badge
+[license-url]: https://github.com/DELVES/CanaryWriter/blob/master/LICENSE.txt
 [twitter-shield]: https://img.shields.io/twitter/follow/DELVESmedia?color=CEFF00&style=for-the-badge
 [twitter-url]: https://twitter.com/DELVESmedia
 [Homebrew]: https://brew.sh/
