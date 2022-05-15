@@ -7,14 +7,14 @@ echo "\n"
 
 sleep 1
 
-echo -n "[CW] When was the last canary statement created? (e.g 1st April 2021) `echo $'\n> '`"
+echo -n "[CW] When was the last warrant canary created? (e.g 1st April 2021) `echo $'\n> '`"
 read userInput
 if [[ -n "$userInput" ]]
 then
     clu=$userInput
 fi
 
-echo -n "[CW] When will the next canary be created? (e.g 1st April 2023) `echo $'\n> '`"
+echo -n "[CW] When will the next warrant canary be created? (e.g 1st April 2023) `echo $'\n> '`"
 read userInput
 if [[ -n "$userInput" ]]
 then
@@ -34,11 +34,11 @@ Issued for : `date +%d` `date +%B` `date +%Y`.
 Last updated : $clu
 Next update on : $cnu
 ===================================================
-What are canary statements?
+What are warrant canaries?
 https://en.wikipedia.org/wiki/Warrant_canary
 https://www.eff.org/deeplinks/2014/04/warrant-canary-faq
 ===================================================
-Don't trust this statement blindly, verify the signature of this file!
+Don't trust this canary blindly, verify the signature of this file!
 ===================================================
 
 
@@ -91,4 +91,4 @@ sleep 1
 echo "[CW] Deleting unsigned canary..."
 rm canary-`date +%d-%m-%Y`.txt
 sleep 1
-echo "[CW] Signed canary statement ready! You can now distribute canary-`date +%d-%m-%Y`-signed.txt"
+echo "[CW] Your signed warrant canary is ready! You can now distribute canary-`date +%d-%m-%Y`-signed.txt"
