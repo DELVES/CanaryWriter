@@ -28,7 +28,7 @@ cat >canary-`date +%d-%m-%Y`.txt <<EOF
 
 
 
-CANARY STATEMENT
+WARRANT CANARY
 ===================================================
 Issued for : `date +%d` `date +%B` `date +%Y`.
 Last updated : $clu
