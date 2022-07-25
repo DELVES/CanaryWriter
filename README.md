@@ -22,7 +22,7 @@
     A CLI tool for creating signed warrant canaries.
     <br />
     <br />
-    <a href="https://delvesmediagroup.com/">Visit Our Site</a>
+    <a href="https://delvesmedia.group/">Visit Our Site</a>
     ·
     <a href="https://github.com/DELVES/CanaryWriter/issues">Report Bug</a>
     ·
